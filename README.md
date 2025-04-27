@@ -21,7 +21,7 @@ Check out this project by [click here](https://todolist-katekeiroz.netlify.app/)
 
 - HTML 5
 - CSS
-- JavaScript
+- JavaScript ECMA6
 
 
 ## 💻 Project
